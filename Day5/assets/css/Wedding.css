@@ -1,0 +1,75 @@
+.wedding
+{
+    margin-top: -48px;
+    background-color: rgb(248, 245, 240);
+}
+.wed1 img{
+    width:1250px;
+    height: 630px;
+    padding-left: 160px;
+    margin-top:20px
+}
+.wedding h1{
+    
+    font-family: "Khand", sans-serif; padding-left: 450px; 
+    font-size:40px;
+    padding-left: 650px;  
+    padding-bottom: 10px; 
+    color: rgb(179, 152, 116);
+}
+.wedding h6{
+    padding-top: 80px;;
+    font-family: nunito, sans-serif;  
+    font-size:20px;
+    padding-left: 700px;  
+    padding-bottom: 0px; 
+    color: rgb(79, 76, 76);
+}
+.wed1 p{
+    padding-left:190px;
+    padding-right:190px;
+    font-size: 19px;
+    font-family: nunito, sans-serif;
+    padding-bottom: 20px;
+}
+.wed1 h2{
+    padding-left:190px;
+    padding-right:190px;
+    font-size: 37px;
+    font-family: nunito, sans-serif;
+    padding-bottom: 20px;
+    color: rgb(94, 97, 99);
+}
+.wed2
+{
+    display: flex;
+    flex-direction:row;
+    margin-left: 170px;
+    
+}
+.wed2 img{
+    width:550px;
+    padding:40px
+}
+.wedding-services 
+{
+   
+    padding-left:270px;
+}
+.wedding-services li{
+   padding-left:30px;
+   padding:10px;
+   font-size: 20px;
+   
+}
+.uir8
+{
+    margin-left: 650px;
+    margin-top: -610px;
+}
+.uir8 li
+{
+    padding-left:30px;
+   padding:10px;
+   font-size: 20px;
+}

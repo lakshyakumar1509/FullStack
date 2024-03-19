@@ -1,0 +1,73 @@
+.booking-container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+.booking-container h1 {
+ 
+    margin-left: 130px;
+    color: #cca956;
+  }
+  
+  .booking-form {
+    margin-top: 20px;
+  }
+  
+  .booking-form input[type="text"],
+  .booking-form input[type="email"],
+  .booking-form input[type="tel"],
+  .booking-form select,
+  .booking-form input[type="date"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .booking-form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #cca956;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .booking-form button:hover {
+    background-color: #585a5b;
+  }
+  .above{
+      margin-left: -220px;
+  }
+  .booking-container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .booking-form {
+    margin-top: 20px;
+  }
+  
+  .booking-form input[type="text"],
+  .booking-form input[type="email"],
+  .booking-form input[type="tel"],
+  .booking-form select,
+  .booking-form input[type="date"],
+  .booking-form input[type="number"],
+  .booking-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .booking-form textarea {
+    resize: vertical; /* Allow vertical resizing */
+  }
+  
+  
+  

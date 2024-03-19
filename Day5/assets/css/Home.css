@@ -1,0 +1,63 @@
+.cnt1
+{
+    height:630px;
+    width:100%;
+    background-image: url("../images/bg11.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position:center;
+    z-index: 1;
+}
+.cnt2
+{
+    margin-top: -46px;
+    background-color: rgb(248, 245, 240);
+    padding-bottom: 90px;
+}
+.cnt2 h6{
+    font-family: nunito, sans-serif;
+    color: rgb(86, 84, 84);
+    padding-top:50px;
+    font-size:20px;
+    padding-left: 700px;    
+}
+.cnt3 h6{
+    font-family: nunito, sans-serif;
+    color: rgb(86, 84, 84);
+    padding-top:50px;
+    font-size:20px;
+    padding-left: 700px;    
+}
+.cnt2 h2{
+    padding-top: -20px;;
+    font-family: "Khand", sans-serif; padding-left: 450px; 
+    font-size:40px;
+    padding-left: 400px;  
+    padding-bottom: 10px; 
+}
+.cnt2 p{
+    padding-left:190px;
+    padding-right:190px;
+    font-size: 19px;
+    font-family: nunito, sans-serif;
+    padding-bottom: 20px;
+
+}
+.cnt2 button{
+    background-color: rgba(1, 1, 1, 0.975);
+     margin-left: 670px;
+    font-size: 20px;
+    padding:10px;
+    color:white
+}
+.cnt2 button:hover{
+    background-color: rgba(35, 32, 32, 0);
+    color:rgb(9, 9, 9);
+    cursor: pointer;
+}
+.img31 img
+{
+      width:130px;
+      height:130px;
+
+}
